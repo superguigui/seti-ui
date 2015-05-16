@@ -1,8 +1,8 @@
 {
-  "name": "seti-ui",
+  "name": "seti-one",
   "theme": "ui",
-  "version": "0.7.1",
-  "description": "A dark colored UI theme for Atom with custom file icons.",
+  "version": "0.0.1",
+  "description": "Seti One theme forked of Seti UI and inspired by One Dark",
   "license": "MIT",
   "repository": "https://github.com/jesseweed/seti-ui",
   "engines": {
